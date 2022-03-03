@@ -4,7 +4,12 @@
   width: 70%;
   margin: 30vh auto;
 }
-
+p,h1,h2,h3{
+  color: white;
+}
+button,input{
+  color: black;
+}
 #discover img {
   margin-top: 80px;
   width: 50vw;
@@ -176,6 +181,7 @@ footer p {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+  color: black;
 }
 
 /* Responsive Navbar */
